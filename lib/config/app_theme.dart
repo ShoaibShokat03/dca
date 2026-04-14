@@ -116,7 +116,7 @@ class AppTheme {
         ),
         labelStyle: const TextStyle(color: textPrimary, fontWeight: FontWeight.w500),
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         color: bgSurface,
         elevation: 0,
         shape: RoundedRectangleBorder(
